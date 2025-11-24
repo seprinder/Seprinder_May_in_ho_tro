@@ -35,10 +35,6 @@ Hiện tại, Seprinder **không hỗ trợ**:
 </summary>
 
 - [A1 Mini](./setup/bambu.md)  
-- [A1](./setup/bambu.md)  
-- [P1P](./setup/bambu.md)  
-- [P1S](./setup/bambu.md)  
-- [X1 Carbon](./setup/bambu.md)
 
 </details>
 
@@ -51,8 +47,6 @@ Hiện tại, Seprinder **không hỗ trợ**:
 </summary>
 
 - [Ender 3 V3 SE](./setup/need-pi.md)  
-- [Ender 3 V3 KE](./setup/need-pi.md)  
-- [Ender 3 V3](./setup/need-pi.md)  
 - [Ender 3 S1 / S1 Pro](./setup/need-pi.md)  
 - [Ender 3 / Pro / V2](./setup/need-pi.md)  
 - [Ender 5 / Ender 5 Plus](./setup/need-pi.md)  
@@ -61,6 +55,8 @@ Hiện tại, Seprinder **không hỗ trợ**:
 - [CR-M4](./setup/need-pi.md)
 
 **Máy chạy sẵn Klipper:**  
+- [Ender 3 V3](./setup/need-pi.md)  
+- [Ender 3 V3 KE](./setup/klipper-native.md)  
 - [K1](./setup/klipper-native.md)  
 - [K1C](./setup/klipper-native.md)  
 - [K1 Max](./setup/klipper-native.md)
@@ -78,7 +74,6 @@ Hiện tại, Seprinder **không hỗ trợ**:
 - [Prusa MK3S+](./setup/need-pi.md)  
 - [Prusa MK4](./setup/need-pi.md)  
 - [Prusa MINI / MINI+](./setup/need-pi.md)  
-- [Prusa XL](./setup/need-pi.md)
 
 </details>
 
