@@ -198,11 +198,11 @@ Hiện tại, Seprinder **không hỗ trợ**:
   <span style="font-size:1.6rem; font-weight:900;">Anet</span>
 </summary>
 
-- [Anet A8](./setup/need-pi.md)  
-- [Anet A8 Plus](./setup/need-pi.md)  
-- [Anet A6](./setup/need-pi.md)  
-- [Anet ET4](./setup/need-pi.md)  
-- [Anet ET5 / ET5 Pro](./setup/need-pi.md)
+- [Anet A8](./setup/need-pi.md) (Klipper cài sẵn: Không)
+- [Anet A8 Plus](./setup/need-pi.md) (Klipper cài sẵn: Không)
+- [Anet A6](./setup/need-pi.md) (Klipper cài sẵn: Không)
+- [Anet ET4](./setup/need-pi.md) (Klipper cài sẵn: Không)
+- [Anet ET5 / ET5 Pro](./setup/need-pi.md) (Klipper cài sẵn: Không)
 
 </details>
 
