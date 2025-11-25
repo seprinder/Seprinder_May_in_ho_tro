@@ -35,7 +35,7 @@ Hiện tại, Seprinder **không hỗ trợ**:
   <span style="font-size:1.6rem; font-weight:900;">Bambu Lab</span>
 </summary>
 
-- [A1 Mini](./setup/bambu.md)  
+- [A1 Mini](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md) 
 
 </details>
 
