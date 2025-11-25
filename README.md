@@ -214,11 +214,11 @@ Hiện tại, Seprinder **không hỗ trợ**:
   <span style="font-size:1.6rem; font-weight:900;">Kingroon</span>
 </summary>
 
-- [KP3](./setup/need-pi.md)  
-- [KP3S](./setup/need-pi.md)  
-- [KP3S Pro](./setup/need-pi.md)  
-- [KP5L](./setup/need-pi.md)  
-- [KP5M](./setup/need-pi.md)  
-- [KLP1](./setup/need-pi.md)
+- [KP3](./setup/need-pi.md) (Klipper cài sẵn: Không)
+- [KP3S](./setup/need-pi.md) (Klipper cài sẵn: Không)
+- [KP3S Pro](./setup/need-pi.md) (Klipper cài sẵn: Không)
+- [KP5L](./setup/need-pi.md) (Klipper cài sẵn: Không)
+- [KP5M](./setup/need-pi.md) (Klipper cài sẵn: Không)
+- [KLP1](./setup/need-pi.md) (Klipper cài sẵn: Có. Nguồn: [Kingroon](https://kingroon.com/products/kingroon-klp1-corexy-3d-printer-klipper-firmware))
 
 </details>
