@@ -1,4 +1,5 @@
-# Seprinder – Danh sách máy in được hỗ trợ
+     
+ eprinder – Danh sách máy in được hỗ trợ
 Danh sách các máy in 3D có thể tích hợp và hoạt động ổn định với **Seprinder.com**.
 
 ---
@@ -55,11 +56,11 @@ Hiện tại, Seprinder **không hỗ trợ**:
 - [Ender 3 V3 SE](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)  
 
 **Máy chạy sẵn Klipper:**  
-- [Ender 3 V3](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)      (chạy klipper tùy biến, cần root. Tham khảo thêm tại [đây](https://guilouz.github.io/Creality-Helper-Script-Wiki/))
-- [Ender 3 V3 KE](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)      (chạy klipper tùy biến, cần root. Tham khảo thêm tại [đây](https://guilouz.github.io/Creality-Helper-Script-Wiki/))
-- [K1](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)      (chạy klipper tùy biến, cần root. Tham khảo thêm tại [đây](https://guilouz.github.io/Creality-Helper-Script-Wiki/))
-- [K1C](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)        (chạy klipper tùy biến, cần root. Tham khảo thêm tại [đây](https://guilouz.github.io/Creality-Helper-Script-Wiki/))
-- [K1 Max](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)      (chạy klipper tùy biến, cần root. Tham khảo thêm tại [đây](https://guilouz.github.io/Creality-Helper-Script-Wiki/))
+- [Ender 3 V3](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)      (chạy klipper tùy biến, cần root. Tham khảo thêm tại [đây](https://guilouz.github.io/Creality-Helper-Script-Wiki/))
+- [Ender 3 V3 KE](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)      (chạy klipper tùy biến, cần root. Tham khảo thêm tại [đây](https://guilouz.github.io/Creality-Helper-Script-Wiki/))
+- [K1](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)     (chạy klipper tùy biến, cần root. Tham khảo thêm tại [đây](https://guilouz.github.io/Creality-Helper-Script-Wiki/))
+- [K1C](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)      (chạy klipper tùy biến, cần root. Tham khảo thêm tại [đây](https://guilouz.github.io/Creality-Helper-Script-Wiki/))
+- [K1 Max](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)      (chạy klipper tùy biến, cần root. Tham khảo thêm tại [đây](https://guilouz.github.io/Creality-Helper-Script-Wiki/))
 
 </details>
 
@@ -94,11 +95,11 @@ Hiện tại, Seprinder **không hỗ trợ**:
 
 **Máy chạy sẵn Klipper:**
 
-- [Kobra 2 Pro](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) (mạch Trigorilla Spe B v1.0.x.. Chạy fw tùy biến, tham khảo thêm tại [đây](https://github.com/jbatonnet/Rinkhals))
-- [Kobra 3 (+ combo)](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) (Chạy fw tùy biến, tham khảo thêm tại [đây](https://github.com/jbatonnet/Rinkhals))
-- [Kobra S1 (+ combo)](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)(Chạy fw tùy biến, tham khảo thêm tại [đây](https://github.com/jbatonnet/Rinkhals))
-- [Kobra 3 Max (+ combo)](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)(Chạy fw tùy biến, tham khảo thêm tại [đây](https://github.com/jbatonnet/Rinkhals))
-- [Kobra 3 V2 (+ combo)](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)(Chạy fw tùy biến, tham khảo thêm tại [đây](https://github.com/jbatonnet/Rinkhals))
+- [Kobra 2 Pro](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md) (mạch Trigorilla Spe B v1.0.x.. Chạy fw tùy biến, tham khảo thêm tại [đây](https://github.com/jbatonnet/Rinkhals))
+- [Kobra 3 (+ combo)](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md) (Chạy fw tùy biến, tham khảo thêm tại [đây](https://github.com/jbatonnet/Rinkhals))
+- [Kobra S1 (+ combo)](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)(Chạy fw tùy biến, tham khảo thêm tại [đây](https://github.com/jbatonnet/Rinkhals))
+- [Kobra 3 Max (+ combo)](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)(Chạy fw tùy biến, tham khảo thêm tại [đây](https://github.com/jbatonnet/Rinkhals))
+- [Kobra 3 V2 (+ combo)](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)(Chạy fw tùy biến, tham khảo thêm tại [đây](https://github.com/jbatonnet/Rinkhals))
 
 </details>
 
@@ -115,8 +116,8 @@ Hiện tại, Seprinder **không hỗ trợ**:
 
 **Máy chạy sẵn Klipper:**  
 
-- [FLSUN S1](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) (chạy fw tùy biến, tham khảo thêm tại [đây](https://guilouz.github.io/FLSUN-S1-Open-Source-Edition/about/))
-- [FLSUN V400](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)
+- [FLSUN S1](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md) (chạy fw tùy biến, tham khảo thêm tại [đây](https://guilouz.github.io/FLSUN-S1-Open-Source-Edition/about/))
+- [FLSUN V400](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
 
 </details>
 
@@ -135,8 +136,8 @@ Hiện tại, Seprinder **không hỗ trợ**:
 
   **Máy chạy sẵn Klipper:**  
 
-- [Adventurer 5M](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)  
-- [Adventurer 5M Pro](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)  (chạy fw tùy biến, tham khảo thêm tại [đây](github.com/xblax/flashforge_ad5m_klipper_mod))
+- [Adventurer 5M](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)  
+- [Adventurer 5M Pro](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)  (chạy fw tùy biến, tham khảo thêm tại [đây](github.com/xblax/flashforge_ad5m_klipper_mod))
 
 </details>
 
@@ -153,7 +154,7 @@ Hiện tại, Seprinder **không hỗ trợ**:
 
   **Máy chạy sẵn Klipper:**  
 
-- [Neptune 4 Series](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)
+- [Neptune 4 Series](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
 
 </details>
 
@@ -165,12 +166,12 @@ Hiện tại, Seprinder **không hỗ trợ**:
   <span style="font-size:1.6rem; font-weight:900;">Voron</span>
 </summary>
 
-- [Voron 0.1 / 0.2](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)  
-- [Voron V2.4](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)
-- [Voron Trident](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)
-- [Voron Switchwire](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)
-- [Voron Legacy](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)
-- [Voron Micron / Micron+](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)
+- [Voron 0.1 / 0.2](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)  
+- [Voron V2.4](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
+- [Voron Trident](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
+- [Voron Switchwire](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
+- [Voron Legacy](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
+- [Voron Micron / Micron+](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
 
 </details>
 
@@ -182,11 +183,11 @@ Hiện tại, Seprinder **không hỗ trợ**:
   <span style="font-size:1.6rem; font-weight:900;">RatRig</span>
 </summary>
 
-- [RatRig V-Core 3](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)
-- [RatRig V-Core 3.1](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)
-- [RatRig V-Core Pro](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) 
-- [RatRig V-Minion](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)
-- [RatRig V-Motion](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)
+- [RatRig V-Core 3](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
+- [RatRig V-Core 3.1](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
+- [RatRig V-Core Pro](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
+- [RatRig V-Minion](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
+- [RatRig V-Motion](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
 
 </details>
 
@@ -198,11 +199,11 @@ Hiện tại, Seprinder **không hỗ trợ**:
   <span style="font-size:1.6rem; font-weight:900;">Anet</span>
 </summary>
 
-- [Anet A8](./setup/need-pi.md) (Klipper cài sẵn: Không)
-- [Anet A8 Plus](./setup/need-pi.md) (Klipper cài sẵn: Không)
-- [Anet A6](./setup/need-pi.md) (Klipper cài sẵn: Không)
-- [Anet ET4](./setup/need-pi.md) (Klipper cài sẵn: Không)
-- [Anet ET5 / ET5 Pro](./setup/need-pi.md) (Klipper cài sẵn: Không)
+- [Anet A8](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) 
+- [Anet A8 Plus](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) 
+- [Anet A6](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) 
+- [Anet ET4](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) 
+- [Anet ET5 / ET5 Pro](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) 
 
 </details>
 
@@ -214,11 +215,15 @@ Hiện tại, Seprinder **không hỗ trợ**:
   <span style="font-size:1.6rem; font-weight:900;">Kingroon</span>
 </summary>
 
-- [KP3](./setup/need-pi.md) (Klipper cài sẵn: Không)
-- [KP3S](./setup/need-pi.md) (Klipper cài sẵn: Không)
-- [KP3S Pro](./setup/need-pi.md) (Klipper cài sẵn: Không)
-- [KP5L](./setup/need-pi.md) (Klipper cài sẵn: Không)
-- [KP5M](./setup/need-pi.md) (Klipper cài sẵn: Không)
-- [KLP1](./setup/need-pi.md) (Klipper cài sẵn: Có. Nguồn: [Kingroon](https://kingroon.com/products/kingroon-klp1-corexy-3d-printer-klipper-firmware))
+- [KP3](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) 
+- [KP3S](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) 
+- [KP3S Pro](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) 
+- [KP5L](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md) 
+- [KP5M](https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/README.md)
+  
+  **Máy chạy sẵn Klipper:**  
+  
+- [KLP1](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
+- [KP3S Pro v2](https://github.com/seprinder/Seprinder_Bridge/blob/master/README.md)
 
 </details>
