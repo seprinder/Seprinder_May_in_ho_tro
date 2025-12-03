@@ -16,7 +16,7 @@ Nhấn **Ctrl + F** để tìm nhanh theo tên máy.
 
 ---
 
-## Các loại máy KHÔNG được hỗ trợ
+## Các loại máy CHƯA được hỗ trợ
 
 Hiện tại, Seprinder **không hỗ trợ**:
 
