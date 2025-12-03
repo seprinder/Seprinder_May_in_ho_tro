@@ -1,5 +1,5 @@
      
- eprinder – Danh sách máy in được hỗ trợ
+Seprinder – Danh sách máy in được hỗ trợ
 Danh sách các máy in 3D có thể tích hợp và hoạt động ổn định với **Seprinder.com**.
 
 ---
