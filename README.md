@@ -18,7 +18,7 @@ Nhấn **Ctrl + F** để tìm nhanh theo tên máy.
 
 ## Các loại máy CHƯA được hỗ trợ
 
-Hiện tại, Seprinder **không hỗ trợ**:
+Hiện tại, Seprinder **chưa hỗ trợ**:
 
 - Máy in resin (SLA / DLP / LCD)  
 - Máy CNC  
